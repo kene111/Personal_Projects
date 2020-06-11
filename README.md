@@ -19,3 +19,7 @@ These are my solutions to a test given to me by a financial technology start up 
 The text dataset used for digital banking, investment and savings, loans, and personal finance management were mined off nairaland and engineered to make analysis a lot easier. Some text data seem smaller than others, this was done to make sure the data gotten was as
 useful as possible and not containing irrelevances.
 
+## Pattern Detector
+The pattern detector is a model that detects trends/patterns in a users daily transaction. The data was created by me due to the 
+fact that I could not find any useful data online. The lstm model trained on Book1.csv and predicted Book2.csv. The model did an averagely okay job(a whole lot of tweaking was done) but still wasn't good enough. Although with large enough data, the model should perform better.
+
