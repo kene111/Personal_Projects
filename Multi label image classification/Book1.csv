@@ -1,0 +1,22 @@
+image_name,tags
+train_0,car black sports elevated frontview outside
+train_1,car white sports sideview outside
+train_2,car white sports sideview inside
+train_3,car white sports  rareview inside
+train_4,cars white black classic elevated_frontview outside
+train_5,cars white black gray classic sports elevated_rareview outside
+train_6,car matte_gray sports frontview outside
+train_7,cars white sports frontview outside
+train_8,car red sports frontview outside
+train_9, car green sports rareview outside
+train_10,car aqua sports frontview outside
+train_11,cars black white sports elevated_topview outside
+train_12,car blue sports frontview inside
+train_13,cars white blue sports truck sideview outside
+train_14,car black jeep  sideview outside
+train_15,car black sports  frontview outside
+train_16,car red sports  sideview outside
+train_17,car purple sports  frontview rareview outside
+train_18,cars gold white  sports  sideview outside
+train_19,car red sport  sideview outside
+train_20,cars red black sports jeep  frontview outside
