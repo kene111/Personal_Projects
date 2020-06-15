@@ -25,3 +25,6 @@ fact that I could not find any useful data online. The lstm model is trained on 
 The model performed a poorly.I believe with large enough data, the model should perform better. This project is part of a larger project
  hence its functionality would be improved upon.
 
+## Multi label image classification
+This is the act of assigning tags/labels to images. Here I trained the model on a car dataset i created, hence the data was little.
+Although the accuracy was okay, the performance wasn't all that fantastic.
