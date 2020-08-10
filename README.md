@@ -7,7 +7,7 @@ This project was done to try and improve the qualities of a low quality image ba
 ## Ireland_NewsClassifer:
 My solution code to a kaggle competition. Dataset couldn't upload.
 
-## Natural Disaster Tweets Classification 1 & 2(re d0):
+## Natural Disaster Tweets Classification 1 & 2(redo):
 My solution code(rough work) to a kaggle competition. A neural network, a random forest and naive bayes classifier were used in kaggle_1 and a GRU was used in kaggle_1_redo. 
 
 ## Plane Crash and Plane_crash_upload:
