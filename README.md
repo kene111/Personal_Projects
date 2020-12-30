@@ -15,7 +15,7 @@ My solution code to a HackerEarth Machine Learning challenge (link: https://www.
 Plane Crash.ipynb has the rough work code using various classifiers and neural network, Plane_crash_upload.ipynb has the clean code for uploading.
 
 ## AI_6:
-First group project presented for the first half of AI saturday cohort.
+First group project presented for the first half of AI saturday cohort. Here we tried to predict how much someone will spend on a black friday event based of certain features.
 
 ## Test Solutions:
 These are my solutions to a test given to me by a financial technology start up company on sentiment analysis.
