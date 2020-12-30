@@ -12,7 +12,7 @@ My solution code(rough work) to a kaggle competition. A neural network, a random
 
 ## Plane Crash and Plane_crash_upload:
 My solution code to a HackerEarth Machine Learning challenge (link: https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/).
-Plane Crash.ipynb has the rough work code using various classifiers and neural network, Plane_crash_upload.ipynb has the clean code for uploading.
+Plane Crash.ipynb : has the rough work code using various classifiers and neural network, Plane_crash_upload.ipynb : has the clean code for uploading.
 
 ## AI_6:
 First group project presented for the first half of AI saturday cohort. Here we tried to predict how much someone will spend on a black friday event based of certain features.
