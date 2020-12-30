@@ -14,6 +14,9 @@ My solution code(rough work) to a kaggle competition. A neural network, a random
 My solution code to a HackerEarth Machine Learning challenge (link: https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/).
 Plane Crash.ipynb has the rough work code using various classifiers and neural network, Plane_crash_upload.ipynb has the clean code for uploading.
 
+## AI_6:
+First group project presented for the first half of AI saturday cohort.
+
 ## Test Solutions:
 These are my solutions to a test given to me by a financial technology start up company on sentiment analysis.
 The text dataset used for digital banking, investment and savings, loans, and personal finance management were mined off nairaland and engineered to make analysis a lot easier. Some text data seem smaller than others, this was done to make sure the data gotten was as
