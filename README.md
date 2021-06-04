@@ -4,7 +4,7 @@ These are my personal projects.
 ### Recent Projects
 
 ### Malawi News Classification :
-My solution notebook to the Zindi NLP competition on text classification centered on news articles. Details can be found (here)[https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge]
+My solution notebook to the Zindi NLP competition on text classification centered on news articles. Details can be found [here](https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge)
 
 
 
