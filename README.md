@@ -4,7 +4,7 @@ These are my personal projects.
 ### Recent Projects
 
 ### Malawi News Classification :
-My solution notebook to the Zindi NLP competition on text classification centered on news articles. Details can be found [here](https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge)
+My solution notebook to the Zindi NLP competition on text classification centered on news articles. More infformation can be found [here](https://zindi.africa/competitions/ai4d-malawi-news-classification-challenge).
 
 
 
@@ -23,7 +23,7 @@ My solution code to a kaggle competition. Dataset couldn't upload.
 My solution code(rough work) to a kaggle competition. A neural network, a random forest and naive bayes classifier were used in kaggle_1 and a GRU was used in kaggle_1_redo. 
 
 ### Plane Crash and Plane_crash_upload:
-My solution code to a HackerEarth Machine Learning challenge (link: https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/).
+My solution code to a HackerEarth Machine Learning challenge[link](https://www.hackerearth.com/challenges/competitive/airplane-accident-severity-hackerearth-machine-learning-challenge/).
 Plane Crash.ipynb : has the rough work code using various classifiers and neural network, Plane_crash_upload.ipynb : has the clean code for uploading.
 
 ### AI_6:
