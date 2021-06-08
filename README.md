@@ -31,10 +31,7 @@ The text dataset used for digital banking, investment and savings, loans, and pe
 useful as possible and not containing irrelevances.
 
 ### Pattern Detector:
-The pattern detector is a model that detects trends/patterns in a users daily transaction. The data was created by me due to the 
-fact that I could not find any useful data online. The lstm model is trained on Book1.csv and then predicts Book2.csv. 
-The model performed a poorly.I believe with large enough data, the model should perform better. This project is part of a larger project
- hence its functionality would be improved upon.
+The pattern detector is a model that detects trends/patterns in a users daily transaction.The data was created by me. The lstm model is trained on Book1.csv and then predicts Book2.csv. This project will be improved upon in the future. 
 
 ### Multi label image classification:
 This is the act of assigning tags/labels to images. Here I trained the model on a car dataset i created, hence the data was little.
